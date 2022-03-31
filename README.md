@@ -90,7 +90,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [HeadSpin](https://www.headspin.io/) - HeadSpin's Regression testing gives you a powerful comparison tool for analysing degradation across new app builds, OS releases, feature additions, locations, and more.
-- [LambdaTest](https://www.lambdatest.com/) - Perform Automated and Live Interactive Cross Browser Testing on 2000+ Real Browsers and Operating Systems Online.
+- [LambdaTest](https://www.lambdatest.com/intl/en-in/hyperexecute)- Perform Automated and Live Interactive Cross Browser Testing on 3000+ Real Browsers and Operating Systems Online.
 - [screener.io](https://screener.io) - For React, looks open source.
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
